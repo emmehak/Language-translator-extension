@@ -99,3 +99,7 @@ Mehak Eman
 GitHub: [https://github.com/emmehak](https://github.com/emmehak)
 LinkedIn: [https://www.linkedin.com/in/mehak-eman-2a229a24a/](https://www.linkedin.com/in/mehak-eman-2a229a24a/)
 Portfolio: [https://mehakeman-portfolio.netlify.app](https://mehakeman-portfolio.netlify.app)
+
+## UI Design
+<img width="394" height="498" alt="translator" src="https://github.com/user-attachments/assets/2b8251cd-ac83-4c37-acd3-d1a8b2f5ef7d" />
+
